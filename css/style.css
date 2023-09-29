@@ -11700,6 +11700,11 @@ textarea.form-control {
   color: rgba(255, 255, 255, 0.9);
 }
 
+#company-logo{
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
 .img,
 .blog-img,
 .user-img {
