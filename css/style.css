@@ -11502,11 +11502,12 @@ textarea.form-control {
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
+
 .ftco-footer .ftco-footer-widget h2 {
   font-weight: normal;
   color: #fff;
-  margin-bottom: 40px;
-  font-size: 13px;
+  margin-bottom: 30px;
+  font-size: 20px;
   font-weight: 900;
   text-transform: uppercase;
   font-family: "Poppins", Arial, sans-serif;
@@ -11539,6 +11540,7 @@ textarea.form-control {
   font-size: 17px;
   font-weight: 400;
   color: #000000;
+  margin-top: 50px;
 }
 
 .ftco-footer-social li {
